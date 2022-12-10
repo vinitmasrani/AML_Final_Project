@@ -3,7 +3,7 @@ Comparative Analysis of CNN Models for Cancer Detection
 
 **Dataset Links**
 
-Brain Cancer Dataset Used : 
+Brain Cancer Dataset Used : https://drive.google.com/drive/folders/10vAxfzRb0kPvyEAL_FwI-4KcufCzqMHb
 
 Lung Cancer Dataset Used :
 
